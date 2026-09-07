@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store.env
+venv/
+_pycache/
+*.pyc Python compiler
